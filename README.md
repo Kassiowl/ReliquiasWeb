@@ -1,1 +1,1 @@
-## Projeto web simples para faculdade.
+## Um Projeto web simples para faculdade.
